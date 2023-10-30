@@ -17,4 +17,4 @@ EXPOSE 80
 ENV ENV_NAME green
 
 # Command to run your application
-CMD ["python", "app.py"]
+CMD ["python", "green_app.py"]
